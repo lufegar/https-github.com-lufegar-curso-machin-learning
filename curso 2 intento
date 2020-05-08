@@ -1,0 +1,8 @@
+ o crea un nuevo repositorio en la línea de comando
+echo "# https-github.com-lufegar-curso-machin-learning" >> README.md 
+git init 
+git agregar README.md 
+git commit -m "primer compromiso" 
+git remoto agregar origen https://github.com/lufegar /https-github.com-lufegar-curso-machin-learning.git
+ git push -u origen maestro
+                
